@@ -28,18 +28,19 @@ My goal: design **safer, interpretable, and more controllable AI systems**.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🔍 [Distributed-Log-Queryer](https://github.com/jain18ayush/Distributed-Log-Queryer) | Go-based grep service across 10 VMs; fault-tolerant log streaming. | Go · RPC · Goroutines |
-| 🧩 [xv6-enhanced](https://github.com/jain18ayush/xv6-enhanced) | RISC-V OS kernel: preemptive scheduling, paging (SV39), VirtIO drivers, UART logging. | C · OS · RISC-V |
+| 🎙 [Steering Whisper](https://docs.google.com/document/d/17bwGk5fAB9bcj8zwlyvoGGnGuXE6v5b9Iw827E9Rv_s/edit?tab=t.0) | Built a PyTorch steering pipeline for OpenAI Whisper to align cross-model concepts (Whisper ↔ GPT-2), exploring transfer of reasoning, tone, and emotion directions. | PyTorch · Transformers · PCA/Projections |
+| 🔗 [Causal CoT Ablation](https://docs.google.com/document/d/1k6K2VnA7WnxkAEiTRT6x_HoEaKGji_mrmDbMWcRt0OE/edit?tab=t.79jl0t6atra7) | Analyzed chain-of-thought reasoning by ablating specific steps and measuring logprob shifts, highlighting stepwise faithfulness and causal influence in reasoning chains. | PyTorch · Mechanistic Interpretability |
+| 📖 [ViT-Prisma Contribution](https://github.com/Prisma-Multimodal/ViT-Prisma/pull/102) | Docs & fixes for open-source vision interpretability library. | PyTorch · Vision Transformers |
 | ⚡ [GPU-Convolution-Optimization](https://github.com/jain18ayush/GPU-Convolution-Optimization) | CUDA + Tensor Cores optimization, **70% speedup**. | CUDA · WMMA · Nsight |
 | 📝 [Onespace](https://github.com/onespace-ai) | JSON annotation + LangChain RAG chatbot for legal docs. | React · Electron · LangChain |
-| 📖 [ViT-Prisma Contribution](https://github.com/Prisma-Multimodal/ViT-Prisma/pull/102) | Docs & fixes for open-source interpretability library. | PyTorch · Vision Transformers |
+| 🔍 Distributed-Log-Queryer | Go-based grep service across 10 VMs; fault-tolerant log streaming. | Go · RPC · Goroutines |
 
 ---
 
 ## 💼 Experience  
 
-- **Thomson Reuters (SWE Intern)** – API contract tests → cut bugs **30%**, UI optimizations for legal content.  
-- **CCC Intelligent Solutions (Data Science Intern)** – Fine-tuned fraud detection on **40M claims**, ↑ accuracy **20%**.  
+- **Thomson Reuters (SWE Intern)** – Built legal chatbots and optimized UX for the 100 top law firms worldwide 
+- **CCC Intelligent Solutions (Data Science Intern)** – Fine-tuned vision fraud detection on **40M claims**, ↑ accuracy **20%**.  
 - **Onespace (Founding Engineer)** – Secured **$50k funding**, shipped RAG + annotation platform.  
 - **Gies Disruption Lab (Tech Lead)** – Built **deepfake detection (↑30%)**, deployed **RAG over 500k docs**.  
 
@@ -67,10 +68,10 @@ My goal: design **safer, interpretable, and more controllable AI systems**.
 
 ## 🌱 Current Focus  
 
-- Faithfulness of **chain-of-thought reasoning** in LLMs  
+- Faithfulness of **chain-of-thought reasoning** in LLMs 
 - **Subspace and causal probing** for embeddings  
 - Practical tools for **robust deployment of generative AI**  
 
 ---
 
-⭐️ Let’s collaborate on **AI safety & interpretability research** → reach me via [email](mailto:jain18ayush@gmail.com)!
+⭐️ Let’s collaborate on **AI safety & interpretability research** → reach me via [email](mailto:jain18ayush@gmail.com) or [X](https://x.com/AyushJa12398511)!
