@@ -32,7 +32,7 @@ My goal: design **safer, interpretable, and more controllable AI systems**.
 | 🔗 [Causal CoT Ablation](https://docs.google.com/document/d/1k6K2VnA7WnxkAEiTRT6x_HoEaKGji_mrmDbMWcRt0OE/edit?tab=t.79jl0t6atra7) | Analyzed chain-of-thought reasoning by ablating specific steps and measuring logprob shifts, highlighting stepwise faithfulness and causal influence in reasoning chains. | PyTorch · Mechanistic Interpretability |
 | 📖 [ViT-Prisma Contribution](https://github.com/Prisma-Multimodal/ViT-Prisma/pull/102) | Docs & fixes for open-source vision interpretability library. | PyTorch · Vision Transformers |
 | ⚡ [GPU-Convolution-Optimization](https://github.com/jain18ayush/GPU-Convolution-Optimization) | CUDA + Tensor Cores optimization, **70% speedup**. | CUDA · WMMA · Nsight |
-| 📝 [Onespace](https://github.com/onespace-ai) | JSON annotation + LangChain RAG chatbot for legal docs. | React · Electron · LangChain |
+| 📝 [Onespace](https://www.onespace-app.com/) | JSON annotation + LangChain RAG chatbot for legal docs. | React · Electron · LangChain |
 | 🧩 [xv6 Operating System](https://github.com/jain18ayush/xv6-os) | RISC-V OS kernel: preemptive scheduling, paging (SV39), VirtIO drivers, UART logging. | C · OS · RISC-V |
 | 🔍 Distributed-Log-Queryer | Go-based grep service across 10 VMs; fault-tolerant log streaming. | Go · RPC · Goroutines |
 
