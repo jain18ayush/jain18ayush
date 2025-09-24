@@ -30,12 +30,12 @@ My goal: design **safer, interpretable, and more controllable AI systems**.
 |---------|-------------|------|
 | 🎙 [Steering Whisper](https://docs.google.com/document/d/17bwGk5fAB9bcj8zwlyvoGGnGuXE6v5b9Iw827E9Rv_s/edit?tab=t.0) | Built a PyTorch steering pipeline for OpenAI Whisper to align cross-model concepts (Whisper ↔ GPT-2), exploring transfer of reasoning, tone, and emotion directions. | PyTorch · Transformers · PCA/Projections |
 | 🔗 [Causal CoT Ablation](https://docs.google.com/document/d/1k6K2VnA7WnxkAEiTRT6x_HoEaKGji_mrmDbMWcRt0OE/edit?tab=t.79jl0t6atra7) | Analyzed chain-of-thought reasoning by ablating specific steps and measuring logprob shifts, highlighting stepwise faithfulness and causal influence in reasoning chains. | PyTorch · Mechanistic Interpretability |
+| 🔍 Distributed-Log-Queryer | Go-based grep service across 10 VMs; fault-tolerant log streaming with a SWIM failure detection system. | Go · RPC · Goroutines |
 | 📖 [ViT-Prisma Contribution](https://github.com/Prisma-Multimodal/ViT-Prisma/pull/102) | Docs & fixes for open-source vision interpretability library. | PyTorch · Vision Transformers |
+| 🧪 [Phase-Transition Interpretability](https://docs.google.com/document/d/1lfALSSNRUKgH4Qey24akUifD8Vuy7CeZQbh1LVye2hY/edit?tab=t.0) | Induced a training phase change (orientation → orientation+color) to study how weights change as neurons become polysemantic. Tracked weight-angle, magnitude, and entropy as order parameters | PyTorch · NumPy · Matplotlib · SAEs · SGLD (for BIF) |
 | ⚡ [GPU-Convolution-Optimization](https://github.com/jain18ayush/GPU-Convolution-Optimization) | CUDA + Tensor Cores optimization, **70% speedup**. | CUDA · WMMA · Nsight |
 | 📝 [Onespace](https://www.onespace-app.com/) | JSON annotation + LangChain RAG chatbot for legal docs. | React · Electron · LangChain |
 | 🧩 [xv6 Operating System](https://github.com/jain18ayush/xv6-os) | RISC-V OS kernel: preemptive scheduling, paging (SV39), VirtIO drivers, UART logging. | C · OS · RISC-V |
-| 🔍 Distributed-Log-Queryer | Go-based grep service across 10 VMs; fault-tolerant log streaming. | Go · RPC · Goroutines |
-
 ---
 
 ## 💼 Experience  
