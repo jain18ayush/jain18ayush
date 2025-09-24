@@ -33,7 +33,7 @@ My goal: design **safer, interpretable, and more controllable AI systems**.
 | 🔍 Distributed-Log-Queryer | Go-based grep service across 10 VMs; fault-tolerant log streaming with a SWIM failure detection system. | Go · RPC · Goroutines |
 | 📖 [ViT-Prisma Contribution](https://github.com/Prisma-Multimodal/ViT-Prisma/pull/102) | Docs & fixes for open-source vision interpretability library. | PyTorch · Vision Transformers |
 | 🧪 [Phase-Transition Interpretability](https://docs.google.com/document/d/1lfALSSNRUKgH4Qey24akUifD8Vuy7CeZQbh1LVye2hY/edit?tab=t.0) | Induced a training phase change (orientation → orientation+color) to study how weights change as neurons become polysemantic. Tracked weight-angle, magnitude, and entropy as order parameters | PyTorch · NumPy · Matplotlib |
-| ⚡ [GPU-Convolution-Optimization](https://github.com/jain18ayush/GPU-Convolution-Optimization) | CUDA + Tensor Cores optimization, **70% speedup**. | CUDA · WMMA · Nsight |
+| ⚡ [GPU-Convolution-Optimization](https://docs.google.com/document/d/1J0aq6jHfjpi4-D71qM78M6bsbhz2l3mr/edit) | CUDA + Tensor Cores optimization, **70% speedup**. | CUDA · WMMA · Nsight |
 | 📝 [Onespace](https://www.onespace-app.com/) | JSON annotation + LangChain RAG chatbot for legal docs. | React · Electron · LangChain |
 | 🧩 [xv6 Operating System](https://github.com/jain18ayush/xv6-os) | RISC-V OS kernel: preemptive scheduling, paging (SV39), VirtIO drivers, UART logging. | C · OS · RISC-V |
 ---
